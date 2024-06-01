@@ -34,7 +34,7 @@ BlogHub is accessible on [Demo Link](https://sharesomething.netlify.app/login), 
 
 ## 🚦 Running the Project
 
-1. **Clone the Repository:** `https://github.com/Kunjshah20/Chai-Blog-Hub`
+1. **Clone the Repository:** `https://github.com/yuvihere23/ShareSomething/`
 2. **Install Dependencies:** `npm install`
 3. Run `npm run dev` to get the project started.
 
