@@ -4,10 +4,12 @@ import authService from './appwrite/auth'
 import { login, logout } from './store/authSlice'
 import { Footer, Header, Loader } from './components/index'
 import { Outlet } from 'react-router-dom'
+import cors from 'cors'
 
 function App() {
   const [loading, setLoading] = useState(true)
   const dispatch = useDispatch()
+  App.use(cors())
 
   useEffect(() => {
     (async () => {
