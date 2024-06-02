@@ -9,7 +9,7 @@ import cors from 'cors'
 function App() {
   const [loading, setLoading] = useState(true)
   const dispatch = useDispatch()
-  App.use(cors())
+  
 
   useEffect(() => {
     (async () => {
