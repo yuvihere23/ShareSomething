@@ -1,11 +1,11 @@
-# ✨ ChaiBlogHub
+# ✨Share Something
 
-ChaiBlogHub is a dynamic web application crafted for users to articulate their thoughts and ideas through published articles. It seamlessly incorporates user authentication, a robust rich text editor, and Appwrite as the backend, ensuring a smooth and secure experience for writers and readers.
+ShareSomething is a dynamic web application crafted for users to articulate their thoughts and ideas through published articles. It seamlessly incorporates user authentication, a robust rich text editor, and Appwrite as the backend, ensuring a smooth and secure experience for writers and readers.
 
 ---
 ## 🚀 Deployment
 
-BlogHub is accessible on [Demo Link](https://chaibloghub.netlify.app/), providing a convenient platform for users to experience the application.
+ShareSOmthing is accessible on [Demo Link](https://sharesomething.netlify.app/login), providing a convenient platform for users to experience the application.
 
 ## 🚀 Features
 
@@ -34,7 +34,7 @@ BlogHub is accessible on [Demo Link](https://chaibloghub.netlify.app/), providin
 
 ## 🚦 Running the Project
 
-1. **Clone the Repository:** `https://github.com/Kunjshah20/Chai-Blog-Hub`
+1. **Clone the Repository:** `https://github.com/yuvihere23/ShareSomething/`
 2. **Install Dependencies:** `npm install`
 3. Run `npm run dev` to get the project started.
 
@@ -52,7 +52,3 @@ The application employs TinyMCE, offering an intuitive and powerful rich text ed
 
 Appwrite serves as the backbone, streamlining backend operations and enhancing the security of user authentication and data storage. Appwrite simplifies the complexities and repetitions involved in building a modern backend API, enabling developers to construct secure apps more efficiently.
 
-## 📞 Contact Information
-
-- **GitHub:** [Kunjshah20](https://github.com/Kunjshah20)
-- **LinkedIn:** [Kunj Shah](https://www.linkedin.com/in/kunjshah4u/)
